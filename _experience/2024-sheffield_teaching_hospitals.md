@@ -4,7 +4,7 @@ collection: teaching
 type: "Work Experience"
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "University 1, Department"
-date: 2024-03
+date: 2024-03-01
 location: "Sheffield, United Kingdom"
 ---
 
