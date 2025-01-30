@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Senior Software Engineer"
 collection: teaching
-type: "Undergraduate course"
-permalink: /education/2019-pearson_lanka
+type: "Work Experience"
+permalink: /experience/2019-pearson_lanka
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"

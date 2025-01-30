@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Senior Software Engineer | Software Engineer"
 collection: teaching
 type: "Work Experience"
 permalink: /experience/2013-intel

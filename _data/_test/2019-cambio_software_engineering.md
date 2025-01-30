@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Associate Technical Lead"
 collection: teaching
-type: "Workshop"
-permalink: /education/2019-cambio_software_engineering
+type: "Work Experience"
+permalink: /experience/2019-cambio_software_engineering
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
