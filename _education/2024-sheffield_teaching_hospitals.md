@@ -13,7 +13,7 @@ Projects:
 Theatre Scheduling Application
 ======
 
-<div style="background-color: yellow; padding: 10px;">
+<div>
  Led the design and development of a customised theatre scheduling application, featuring advanced reporting, integrated filtering, enhanced search, and streamlined scheduling.
 </div>
 
