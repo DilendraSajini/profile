@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /education/2013-intel
+type: "Work Experience"
+permalink: /experience/2013-intel
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
