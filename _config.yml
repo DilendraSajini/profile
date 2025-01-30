@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dilendra Sajini / Mrs"
+title                    : "Dilendra Sajini"
 title_separator          : "-"
 name                     : &name "Dilendra Sajini"
-description              : &description "Healthcare Scientist"
+description              : &description "Healthcare Computing Scientist"
 url                      : https://dilendrasajini.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/profile" # the subpath of your site, e.g. "/blog"
 repository               : "DilendraSajini/dilendra-sajini.github.io"
@@ -273,12 +273,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _experience
   - scope:
       path: ""
-      type: talks
+      type: experience
     values:
-      layout: talk
+      layout: experience
       author_profile: true
       share: true
 
