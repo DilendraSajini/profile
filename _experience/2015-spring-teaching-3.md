@@ -1,6 +1,6 @@
 ---
 title: "Healthcare Computing Scientist"
-collection: education
+collection: teaching
 type: "Work Experience"
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "University 1, Department"
