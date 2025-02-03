@@ -8,6 +8,10 @@ date: 2024-03-01
 location: "Sheffield, United Kingdom"
 ---
 
+<head>
+  <link rel="stylesheet" href="{{ base_path }}/assets/css/pages/experience.css">
+</head>
+
 <div class="projects">
   <div class="project-item">
     <h2 class="project-title">Theatre Scheduling Application</h2>
