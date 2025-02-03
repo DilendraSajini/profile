@@ -1,12 +1,16 @@
 ---
-title: "Healthcare Computing Scientist"
-collection: teaching
-type: "Work Experience"
-permalink: /experience/2024-sheffield_teaching_hospitals
-venue: "University 1, Department"
-date: 2024-03-01
-location: "Sheffield, United Kingdom"
+layout: archive
+title: "Skills"
+permalink: /skills/
+author_profile: true
 ---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Projects: 
 
