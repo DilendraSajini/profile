@@ -4,7 +4,7 @@ collection: experience
 type: "Work Experience"
 permalink: /experience/2019-cambio_software_engineering
 venue: "Cambio Software Engineering."
-date: 2019-01-01
+date: 2019-10-01
 enddate: 2022-09-01
 location: "Colombo, SL"
 ---
@@ -13,11 +13,9 @@ Served as a Senior Developer in the Cepheus team, responsible for the developmen
 
 <h2>Projects</h2>
 
-<h2>Resistance Overview</h2>
-
 <ul>
   <li>
-    <h3>EOM (Enhanced Order Management)</h3>
+    <h3>EOM (Enhanced Order Management) - Resistance Overview</h3>
     <p>Attained a 60% reduction in data load time of the web portal by optimising SQL queries and infinite loading.</p>
   </li>
 

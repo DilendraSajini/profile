@@ -4,7 +4,7 @@ collection: experience
 type: "Work Experience"
 permalink: /experience/2013-intel
 venue: "Intel Corporation, Persistent Systems."
-date: 2014-01-01
+date: 2013-01-01
 enddate: 2017-09-01
 location: "Colombo, SL"
 ---
