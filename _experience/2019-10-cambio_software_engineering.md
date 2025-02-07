@@ -5,6 +5,7 @@ type: "Work Experience"
 permalink: /experience/2019-cambio_software_engineering
 venue: "Cambio Software Engineering."
 date: 2019-01-01
+enddate: 2022-09-01
 location: "Colombo, SL"
 ---
 
@@ -14,11 +15,19 @@ Served as a Senior Developer in the Cepheus team, responsible for the developmen
 
 <h2>Resistance Overview</h2>
 
-<h3>EOM (Enhanced Order Management)</h3>
-<p>Attained a 60% reduction in data load time of the web portal by optimising SQL queries and infinite loading.</p>
+<ul>
+  <li>
+    <h3>EOM (Enhanced Order Management)</h3>
+    <p>Attained a 60% reduction in data load time of the web portal by optimising SQL queries and infinite loading.</p>
+  </li>
 
-<h3>Cambio Cosmic EHR (Electronic Health Record) System</h3>
-<p>Delivered 20% optimised performance for order management and test results views by enhancing API queries.</p>
+  <li>
+    <h3>Cambio Cosmic EHR (Electronic Health Record) System</h3>
+    <p>Delivered 20% optimised performance for order management and test results views by enhancing API queries.</p>
+  </li>
 
-<h3>QA Regression Test Suite</h3>
-<p>Achieved a 40% reduction in development and testing time by restructuring the QA regression suite.</p>
+  <li>
+    <h3>QA Regression Test Suite</h3>
+    <p>Achieved a 40% reduction in development and testing time by restructuring the QA regression suite.</p>
+  </li>
+</ul>
