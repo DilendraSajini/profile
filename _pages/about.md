@@ -7,15 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate technologist dedicated to practical innovation and problem-solving through data-driven technologies. With over 10 years of experience developing enterprise-level software solutions for UK and Sweden-based companies, I specialize in building scalable, data-driven applications that drive efficiency and impact.
+##**Welcome** 
 
-Currently, I work as a <b> Healthcare Computer Scientist </b> at NHS UK, where I develop cutting-edge clinical decision support systems to enhance healthcare services.
+Welcome to my personal website, where I share my expertise, achievements, and professional journey. Here, you’ll find insights into my work, projects, and innovations in cutting-edge technologies.
 
-Committed to continuous professional development, I actively expand my expertise in emerging technologies, including data science and informatics, to deliver innovative and impactful solutions.
+##**About Me**
 
-My personal website
-======
-Welcome to my personal website, where I showcase my achievements, expertise, and career interests. Here, you'll find insights into my work, projects, and passion for innovation, problem-solving, and data-driven technologies.
+I am a **technology leader and innovator** with a strong foundation in **software engineering, data science, and cloud architecture**. With a passion for solving complex problems, I have honed my skills across multiple disciplines to drive scalable, high-impact solutions in the ever-evolving tech landscape.
 
-Getting started
-======
+<div align="center">
+## ** Education & Certifications 🎓 **
+- **MSc Data Science**  
+- **MSc Software Architecture**  
+- **BSc Computer Engineering (Hons)**  
+- **BCS, The Chartered Institute for IT**  
+- **AWS Certified Solutions Architect – Associate**  
+</div>
+
+I started my career as a **Java developer**, where I built robust, high-performance applications. Over time, my curiosity and dedication led me to explore emerging technologies, shaping my transition into a **computer healthcare scientist **applying **software, data, and AI-driven solutions** to enhance computational healthcare.
+
+Beyond my professional roles, I am a **self-taught investor in knowledge and technology**, continuously refining my expertise in AI, cloud computing, and scalable architectures. My mission is to leverage cutting-edge innovations to build transformative solutions that make a meaningful impact.
