@@ -1,6 +1,6 @@
 ---
 title: "Senior Software Engineer"
-collection: teaching
+collection: experience
 type: "Work Experience"
 permalink: /experience/2019-pearson_lanka
 venue: "Pearson Lanka (Pvt) Ltd."

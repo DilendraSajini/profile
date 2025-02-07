@@ -1,6 +1,6 @@
 ---
 title: "Senior Software Engineer, Software Engineer"
-collection: teaching
+collection: experience
 type: "Work Experience"
 permalink: /experience/2013-intel
 venue: "Intel Corporation, Persistent Systems."

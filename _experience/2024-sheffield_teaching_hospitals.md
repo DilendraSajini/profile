@@ -1,6 +1,6 @@
 ---
 title: "Healthcare Computing Scientist"
-collection: teaching
+collection: experience
 type: "Work Experience"
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "Sheffield Teaching Hospitals NHS Foundation Trust."

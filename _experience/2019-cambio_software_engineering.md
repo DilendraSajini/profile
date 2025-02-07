@@ -1,6 +1,6 @@
 ---
 title: "Associate Technical Lead"
-collection: teaching
+collection: experience
 type: "Work Experience"
 permalink: /experience/2019-cambio_software_engineering
 venue: "Cambio Software Engineering."
