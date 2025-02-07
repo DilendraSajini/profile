@@ -3,18 +3,15 @@ title: "Senior Software Engineer | Software Engineer"
 collection: teaching
 type: "Work Experience"
 permalink: /experience/2013-intel
-venue: "University 1, Department"
+venue: "Intel Corporation, Persistent Systems."
 date: 2014-01-01
-location: "City, Country"
+location: "Colombo, SL"
 ---
 
-A This is a description of a teaching experience. You can use markdown like any other post.
+<h2>Projects</h2>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<h3>IoT and AI Integration for Smart Healthcare</h3>
+<p>Integrated NLP (Natural Language Processing) into smart hospital rooms through the design and development of an IoT-based voice-activated virtual assistant.</p>
+<p>Designed and developed an IoT dashboard for remote monitoring and upgrading firmware of smart appliances, enabling risk analysis and automated alerts.</p>
+<p>Improved authentication and user experience by integrating Mobile Connect to enhance the OAuth2 flow for developer portal login.</p>
+<p>Verified new middleware functionality for OpenStack Gateway, assessing performance and compatibility within the infrastructure through gateway simulation.</p>

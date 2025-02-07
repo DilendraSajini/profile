@@ -3,18 +3,14 @@ title: "Senior Software Engineer"
 collection: teaching
 type: "Work Experience"
 permalink: /experience/2019-pearson_lanka
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Pearson Lanka (Pvt) Ltd."
+date: 2019-01-01
+location: "Colombo, SL"
 ---
 
-A This is a description of a teaching experience. You can use markdown like any other post.
+<h2>Projects</h2>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<h3>Digital Content Management and Publishing Platform for Higher Education Service Providers</h3>
+<p>Led the design and implementation of a microservice for curated book-building services.</p>
+<p>Integrated an identity service for secure portal login in the instructor portal.</p>
+<p>Configured Jenkins CI/CD pipelines, Docker on ECS, and ELK for log analysis.</p>
