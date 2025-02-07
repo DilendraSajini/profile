@@ -5,8 +5,10 @@ type: "Work Experience"
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "Sheffield Teaching Hospitals NHS Foundation Trust."
 date: 2024-03-01
-location: "Sheffield, United Kingdom"
+location: "Sheffield, UK"
 ---
+
+Working as a computing scientist in the scientific computing team. Work on a broad range of applications in data science, statistics, and healthcare informatics, along with proficiency in several programming languages and tools enabling me to effectively analyse and manipulate data. Role is supporting the migration of patient data from the Lorenzo Patient Administration System to the new Connect Electronic Patient Record (EPR) system, ensuring data accuracy and minimal disruption to patient care. Collaboratively work with clinical staff members to understand their workflows, ensuring that the developing solutions (web portal, reporting, and scheduling tools) are tailored to the specific needs of patient care and clinical operations.
 
 <h2>Projects</h2>
 

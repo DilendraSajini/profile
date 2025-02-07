@@ -8,6 +8,8 @@ date: 2019-01-01
 location: "Colombo, SL"
 ---
 
+Served as a Senior Developer in the Cepheus team, responsible for the development and design of the Cambio COSMIC EHR system for hospitals and healthcare providers in Sweden. Managed hospital bookings, test results, medications, and treatments through clinical decision support systems while developing web portals, implementing new features, and addressing backlog issues. Refactored legacy code to improve system performance and assisted the team in adopting best coding practices through code reviews. As a Scrum Master, facilitated cross-functional team communication, enhanced team velocity and visibility, and improved project planning through story slicing, parallel development strategies, and task prioritization.
+
 <h2>Projects</h2>
 
 <h2>Resistance Overview</h2>
