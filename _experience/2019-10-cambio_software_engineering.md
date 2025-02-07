@@ -4,6 +4,7 @@ collection: experience
 type: "Work Experience"
 permalink: /experience/2019-cambio_software_engineering
 venue: "Cambio Software Engineering."
+venue-url: "https://careers.cambio.lk/" 
 date: 2019-10-01
 enddate: 2022-09-01
 location: "Colombo, SL"

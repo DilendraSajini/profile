@@ -4,6 +4,7 @@ collection: experience
 type: "Work Experience"
 permalink: /experience/2019-pearson_lanka
 venue: "Pearson Lanka (Pvt) Ltd."
+venue-url: "https://www.pearson.com/" 
 date: 2019-01-01
 enddate: 2019-10-01
 location: "Colombo, SL"

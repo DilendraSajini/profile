@@ -4,6 +4,7 @@ collection: experience
 type: "Work Experience"
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "Sheffield Teaching Hospitals NHS Foundation Trust."
+venue-url: "https://www.sth.nhs.uk/" 
 date: 2024-03-01
 enddate: 2025-03-07
 location: "Sheffield, UK"

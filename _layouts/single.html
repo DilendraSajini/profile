@@ -35,7 +35,15 @@ layout: default
         {% endif %}
          
         {% if page.enddate %}
-          <p>Worked in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: " %m %Y" }} - {{ page.enddate | default: "1900-01-01" | date: "%m %Y" }}</p>
+          <p>
+            Worked in 
+            {% if page.venue_url %}
+              <a href="{{ page.venue_url }}" target="_blank">{{ page.venue }}</a>
+            {% else %}
+              <i>{{ page.venue }}</i>
+            {% endif %}
+            , {{ page.date | default: "1900-01-01" | date: " %m %Y" }} - {{ page.enddate | default: "1900-01-01" | date: "%m %Y" }}
+          </p>
         {% elsif page.venue and page.date %}
           <p>Worked in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif page.date %}
