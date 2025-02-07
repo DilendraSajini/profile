@@ -6,7 +6,7 @@ collection: skills
 
 <h2>Skills</h2>
 
-<img src="images/tech_wordcloud.jpg" alt="Tech Word Cloud">
+<img src="{{ base_path }}/images/tech_wordcloud.jpg" alt="Tech Word Cloud">
 
 <h3>Software Development</h3>
 <p>RESTful APIs, Microservices, OOP</p>
