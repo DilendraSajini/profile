@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Skills"
+excerpt: "Short description about my skills"
+collection: skills
 ---
 
 <h2>Skills</h2>
