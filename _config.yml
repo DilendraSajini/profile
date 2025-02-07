@@ -255,10 +255,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _skills
   - scope:
       path: ""
-      type: portfolio
+      type: skills
     values:
       layout: single
       author_profile: true

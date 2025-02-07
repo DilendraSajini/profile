@@ -3,7 +3,7 @@ title: "Senior Software Engineer, Software Engineer"
 collection: experience
 type: "Work Experience"
 permalink: /experience/2013-intel
-venue: "Intel Corporation, Persistent Systems."
+venue: "Persistent Systems, formerly associated with Intel Corporation."
 venue-url: "https://www.persistent.com/" 
 date: 2013-01-01
 enddate: 2017-09-01

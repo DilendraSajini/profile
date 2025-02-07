@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Bio"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<h2>Welcome</h2>
 
 <p>Welcome to my personal website, where I share my expertise, achievements, and professional journey. Here, you’ll find insights into my work, projects, and innovations in cutting-edge technologies.</p>
 

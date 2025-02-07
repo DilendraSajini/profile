@@ -1,0 +1,31 @@
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+<h2>Skills</h2>
+
+<img src="images/tech_wordcloud.jpg" alt="Tech Word Cloud">
+
+<h3>Software Development</h3>
+<p>RESTful APIs, Microservices, OOP</p>
+<p>Java, C#, .Net Core, Express.js, HTML, CSS, JavaScript, TypeScript, React, Angular</p>
+
+<h3>Business Intelligence & Analytics</h3>
+<p>Power BI, Tableau, Python (Business Intelligence, Statistical Analysis, Machine Learning Model Development)</p>
+    
+<h3>Data Engineering</h3>
+<p>ETL/ELT, Data Pipeline Development, Data Warehousing, Data Mart Design (Snowflake and Star Schema)</p>
+    
+<h3>Big Data & Search Technologies</h3>
+<p>ELK (Elastic Search, Logstash, Kibana), Spark, PySpark, Pandas</p>
+    
+<h3>Databases</h3>
+<p>SQL (SQL Server, Oracle, MySQL, MongoDB)</p>
+    
+<h3>Cloud & DevOps</h3>
+<p>AWS, Azure (Databricks), IBM, IoT, Docker, Nginx, JBoss, Linux, Windows</p>
+    
+<h3>Version Control & CI/CD</h3>
+<p>Bitbucket, GitHub, GitLab, Jenkins CI/CD, Jira, NPM, Maven</p>
