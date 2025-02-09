@@ -1,45 +1,46 @@
-/* Projects Section */
-.projects {
-  margin: 40px;
-  padding: 20px;
+#mainleft {
+  margin: 3%;
+  width: 100%;
+  padding: 0%;
 }
 
-.project-item {
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
+.card {
+  width: 100%;
 }
 
-.project-title {
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 10px;
+.text-dynamic {
+  list-style-type: none;
+  overflow: hidden;
+  line-height: 25px;
+  height: 35px;
+  padding: 0%;
+  text-align: center;
 }
 
-.project-description {
-  font-size: 1.1rem;
-  color: #555;
-  line-height: 1.6;
+.text-item {
+  position: relative;
+  font-weight: 400;
+  color: var(--yangColor);
+  list-style: none;
+  top: 0;
+  animation: slide 5s steps(4) infinite;
+  align-items: center;
+  color: rgb(249, 167, 1);
 }
 
-/* Responsive design */
-@media (max-width: 768px) {
-  .projects {
-    margin: 20px;
-    padding: 10px;
+@keyframes slide {
+  100% {
+    top: -120px;
   }
+}
 
-  .project-item {
-    padding-bottom: 15px;
-    margin-bottom: 15px;
-  }
+#iam-title {
+  margin: 0;
+  justify-content: center;
+  color: var(--yangColor);
+}
 
-  .project-title {
-    font-size: 1.5rem;
-  }
-
-  .project-description {
-    font-size: 1rem;
-  }
+#dynamic-text {
+  margin: 0;
+  justify-content: center;
 }

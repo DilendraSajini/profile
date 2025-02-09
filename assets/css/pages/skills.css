@@ -1,0 +1,9 @@
+.skills {
+    height: auto; 
+    max-width: 80%; 
+    display: block;
+    margin: auto; 
+}
+.content{
+    text-align: center;
+}

@@ -2,15 +2,26 @@
 permalink: /
 title: "Welcome"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
+
+<link rel="stylesheet" href="{{ "assets/css/pages/experience.css" | relative_url }}">
 
 <p>Welcome to my personal website, where I share my expertise, achievements, and professional journey. Here, you’ll find insights into my work, projects, and innovations in cutting-edge technologies.</p>
 
 <h2>About Me</h2>
-
+ <div class="col-sm-8" id="mainLeft">
+                <div id="dynamic-text" class="row col-sm-12">
+                    <ul class="text-dynamic">
+                        <li class="text-item"><strong>Software Engineer</strong></li>
+                        <li class="text-item"><strong>Full Stack Developer</strong></li>
+                        <li class="text-item"><strong>Data Scientist</strong></li>
+                        <li class="text-item"><strong>Data Analyst</strong></li>
+                    </ul>
+                </div>
 <p>I am a <strong>technology leader and innovator</strong> with a strong foundation in <strong>software engineering, data science, and cloud architecture</strong>. With a passion for solving complex problems, I have honed my skills across multiple disciplines to drive scalable, high-impact solutions in the ever-evolving tech landscape.</p>
 
 <div align="center">
