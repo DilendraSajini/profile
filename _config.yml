@@ -22,6 +22,7 @@ repository               : "DilendraSajini/dilendra-sajini.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  membership       : "pin.jpg"
   name             : "Dilendra Sajini"
   pronouns         : # example: "she/her"  
   bio              : "Healthcare Computing Scientist"

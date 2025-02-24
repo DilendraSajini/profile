@@ -17,11 +17,15 @@ main:
   - title: "Projects"
     url: /projects/ 
     
+  #- title: "Honors & awards"
+  #  url: /awards/
+
   - title: "CV"
     url: /files/resume.pdf
     
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "Outreach"
-  #   url: /outreach/
+  #- title: "Research"
+  #  url: /research/
+  

@@ -1,7 +1,7 @@
 ---
 title: "Healthcare Computing Scientist"
 collection: experience
-type: "Work Experience"
+type: ""
 permalink: /experience/2024-sheffield_teaching_hospitals
 venue: "Sheffield Teaching Hospitals NHS Foundation Trust."
 venue-url: "https://www.sth.nhs.uk/" 
@@ -10,7 +10,13 @@ enddate: 2025-03-07
 location: "Sheffield, UK"
 ---
 
-Working as a computing scientist in the scientific computing team. Work on a broad range of applications in data science, statistics, and healthcare informatics, along with proficiency in several programming languages and tools enabling me to effectively analyse and manipulate data. Role is supporting the migration of patient data from the Lorenzo Patient Administration System to the new Connect Electronic Patient Record (EPR) system, ensuring data accuracy and minimal disruption to patient care. Collaboratively work with clinical staff members to understand their workflows, ensuring that the developing solutions (web portal, reporting, and scheduling tools) are tailored to the specific needs of patient care and clinical operations.
+Worked as a member of the <strong>Clinical Scientific Computing Team</strong>, ensuring the Section provided excellent <strong>clinical scientific computing</strong> support to the Trust and external stakeholders. I provided <strong>professional services</strong> with senior oversight to ensure the appropriate <strong>application of legislation</strong> and standards associated with <strong>clinical scientific computing</strong>.
+
+I <strong>managed projects</strong>, was involved in <strong>system implementations</strong> and <strong>upgrades</strong>, and <strong>ensured the effective and efficient completion</strong> of assigned deliverables. I was responsible for <strong>managing allocated resources</strong>, <strong>project planning</strong>, <strong>gathering requirements</strong>, and <strong>providing training</strong>.
+
+My role involved <strong>supporting the migration of patient data</strong> from the Lorenzo Patient Administration System to the new <strong>Connect Electronic Patient Record (EPR) system</strong>, <strong>ensuring data accuracy and minimal disruption</strong> to patient care. I worked across a broad range of applications in <strong>data science</strong>, statistics, and <strong>healthcare informatics</strong>, with proficiency in the main programming languages—<strong>Python, C#, Java, and SQL</strong>—and various tools, including <strong>Visual Studio, GitLab, VS Code, Docker, Portainer, Nagios, Jupyter Notebook, and Power BI</strong>. This enabled me to effectively <strong>analyze and manipulate data</strong> as well as perform <strong>infrastructure monitoring</strong>.
+
+I collaborated with <strong>clinical staff members</strong> to understand their workflows, ensuring that developed solutions (such as <strong>web portals, reporting, and scheduling tools</strong>) were <strong>tailored to the specific needs</strong> of <strong>patient care</strong> and <strong>clinical operations</strong>. 
 
 <h2>Projects</h2>
 

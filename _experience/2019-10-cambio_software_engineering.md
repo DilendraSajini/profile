@@ -1,7 +1,7 @@
 ---
 title: "Associate Technical Lead"
 collection: experience
-type: "Work Experience"
+type: ""
 permalink: /experience/2019-cambio_software_engineering
 venue: "Cambio Software Engineering."
 venue-url: "https://careers.cambio.lk/" 
@@ -10,7 +10,13 @@ enddate: 2022-09-01
 location: "Colombo, SL"
 ---
 
-Served as a Senior Developer in the Cepheus team, responsible for the development and design of the Cambio COSMIC EHR system for hospitals and healthcare providers in Sweden. Managed hospital bookings, test results, medications, and treatments through clinical decision support systems while developing web portals, implementing new features, and addressing backlog issues. Refactored legacy code to improve system performance and assisted the team in adopting best coding practices through code reviews. As a Scrum Master, facilitated cross-functional team communication, enhanced team velocity and visibility, and improved project planning through story slicing, parallel development strategies, and task prioritization.
+Served as a <strong>Senior Developer</strong> in the <strong>Cepheus team</strong>, responsible for the <strong>development and design</strong> of the <strong>Cambio COSMIC EHR system</strong> for hospitals and healthcare providers in Sweden. Managed <strong>hospital bookings, test results, medications, and treatments</strong> through <strong>clinical decision support systems</strong> while developing <strong>web portals</strong>, implementing <strong>new features</strong>, and addressing <strong>backlog issues</strong>. Refactored <strong>legacy code</strong> to improve <strong>system performance</strong> and assisted the team in adopting <strong>best coding practices</strong> through <strong>code reviews</strong>.
+
+As a <strong>Scrum Master</strong>, facilitated <strong>cross-functional team communication</strong>, enhanced <strong>team velocity</strong> and <strong>visibility</strong>, and improved <strong>project planning</strong> through <strong>story slicing, parallel development strategies, and task prioritization</strong>.
+
+Demonstrated <strong>leadership skills</strong> by guiding and mentoring <strong>junior team members</strong>, providing <strong>technical guidance</strong>, and fostering a collaborative team environment to enhance productivity and knowledge sharing.
+
+Worked across a broad range of <strong>application development</strong> using programming languages such as <strong>Java (J2EE with Spring Framework), Angular, and SQL</strong> to develop <strong>REST and FHIR/HL7 APIs</strong>. Utilized various tools, including <strong>Eclipse, Bitbucket, VS Code, JBOSS, and Docker</strong>, enabling effective <strong>product development, SQL query performance enhancement, CI/CD deployment, and infrastructure and log monitoring</strong>.
 
 <h2>Projects</h2>
 
